@@ -2,19 +2,19 @@
     "home_url": "",
     "builds": {
         "pubm": {
-            "version": "3.3",
+            "version": "3.4.2",
             "min_version": "3.3",
             "download_url": "",
             "enabled": true
         },
         "specm": {
-            "version": "3.3",
+            "version": "3.4.2",
             "min_version": "3.3",
             "download_url": "",
             "enabled": true
         },
         "ownm": {
-            "version": "3.3",
+            "version": "3.4.2",
             "min_version": "3.3",
             "download_url": "",
             "enabled": true
